@@ -13,7 +13,7 @@
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.0.0",
-    "electron": "^4.1.1",
+    "electron": "^9.1.0",
     "electron-reload": "^1.4.0",
     "mysql": "^2.16.0",
     "react-router-dom": "^4.3.1",
